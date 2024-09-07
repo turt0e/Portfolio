@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cefb151-a2a7-4eb3-8f4f-f18ab2d4a5b6" name="Changes" comment="" />
+    <list default="true" id="9cefb151-a2a7-4eb3-8f4f-f18ab2d4a5b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +81,7 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -141,7 +143,7 @@
       <workItem from="1725676805448" duration="27000" />
       <workItem from="1725676838686" duration="857000" />
       <workItem from="1725677728931" duration="319000" />
-      <workItem from="1725678065550" duration="6676000" />
+      <workItem from="1725678065550" duration="7373000" />
     </task>
     <servers />
   </component>
