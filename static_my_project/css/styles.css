@@ -1,0 +1,116 @@
+/* General Styles */
+body {
+    font-family: 'Helvetica', Arial, sans-serif;
+    background-color: #f8f9fa; /* Light background for contrast */
+    color: #333;
+}
+
+h1 {
+    font-weight: 700;
+    color: #343a40; /* Dark gray */
+    margin-bottom: 20px;
+}
+
+/* Dashboard Table Styles */
+.table {
+    border-radius: 8px;
+    overflow: hidden; /* Smooth table edges */
+    background-color: #fff; /* White background for the table */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.table th {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.table td {
+    vertical-align: middle;
+    font-size: 14px;
+    padding: 12px 15px;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f2f2f2; /* Custom stripe color */
+}
+
+.table-hover tbody tr:hover {
+    background-color: #d1e7dd; /* Light green hover */
+}
+
+.table-dark {
+    background-color: #343a40;
+    color: white;
+}
+
+.table-dark th,
+.table-dark td {
+    border-color: #474e54;
+}
+
+/* Success Message */
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border-color: #c3e6cb;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+/* Navbar Styling */
+.navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow */
+}
+
+.nav-link {
+    color: #ffffff !important;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+
+.nav-link:hover {
+    color: #f8f9fa !important; /* Slight change on hover */
+}
+
+/* Footer Styling */
+footer {
+    font-size: 14px;
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer a {
+    color: #adb5bd;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+footer a:hover {
+    color: #f8f9fa;
+}
+
+/* Form Styles */
+.form-label {
+    font-weight: 500;
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #084298;
+    border-color: #084298;
+}
+
+/* Page Layout */
+.container {
+    margin-top: 30px;
+}
+

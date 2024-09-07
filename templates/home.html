@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container">
+        <h1>Contact Submissions</h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Full Name</th>
+                    <th>Email</th>
+                    <th>Subject</th>
+                    <th>Message</th>
+                    <th>Date Submitted</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for inquiry in inquiries %}
+                <tr>
+                    <td>{{ inquiry.fullname }}</td>
+                    <td>{{ inquiry.email }}</td>
+                    <td>{{ inquiry.subject }}</td>
+                    <td>{{ inquiry.message }}</td>
+                    <td>{{ inquiry.date_submitted }}</td>
+                </tr>
+                {% empty %}
+                <tr>
+                    <td colspan="5">No inquiries found.</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}
