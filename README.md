@@ -65,6 +65,8 @@ To set up the project locally, follow these steps:
    python manage.py runserver
    ```
 
+   (INCOMPLETE AS PILLOW WONT INSTALL AT ALL)
+
 
   
 
