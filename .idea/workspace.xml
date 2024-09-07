@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cefb151-a2a7-4eb3-8f4f-f18ab2d4a5b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Contact/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contact/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contact/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MidtermAct/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/templates/project_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/templates/project_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/templates/project_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/templates/project_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_my_project/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/contact/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermAct/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidtermAct/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermAct/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidtermAct/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="9cefb151-a2a7-4eb3-8f4f-f18ab2d4a5b6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +116,7 @@
       <workItem from="1725676805448" duration="27000" />
       <workItem from="1725676838686" duration="857000" />
       <workItem from="1725677728931" duration="319000" />
-      <workItem from="1725678065550" duration="6062000" />
+      <workItem from="1725678065550" duration="6375000" />
     </task>
     <servers />
   </component>
