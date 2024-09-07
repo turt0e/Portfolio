@@ -66,6 +66,7 @@ To set up the project locally, follow these steps:
    ```
 
    (INCOMPLETE AS PILLOW WONT INSTALL AT ALL)
+   (ONLY CONTACT PAGE IS WORKING PROPERLY)
 
 
   
