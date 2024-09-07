@@ -31,6 +31,31 @@
     &quot;assignee&quot;: &quot;turt0e&quot;
   }
 }</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1725684741" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1725684681" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/turt0e/Portfolio.git&quot;,
@@ -116,7 +141,7 @@
       <workItem from="1725676805448" duration="27000" />
       <workItem from="1725676838686" duration="857000" />
       <workItem from="1725677728931" duration="319000" />
-      <workItem from="1725678065550" duration="6375000" />
+      <workItem from="1725678065550" duration="6676000" />
     </task>
     <servers />
   </component>
