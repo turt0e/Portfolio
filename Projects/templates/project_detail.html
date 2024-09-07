@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ project.title }}{% endblock %}
+
+{% block content %}
+    <h2>{{ project.title }}</h2>
+
+    <div id="carousel">
+        <img src="{{ project.image.url }}" alt="{{ project.title }}">
+        <!-- Add more images if needed -->
+    </div>
+
+    <p>{{ project.description }}</p>
+
+    {% if project.website_url %}
+        <a href="{{ project.website_url }}" target="_blank">Visit Project</a>
+    {% endif %}
+{% endblock %}
